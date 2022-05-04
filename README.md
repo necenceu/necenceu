@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @necenceu
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Game Maker Studio 2
-- 💞️ I’m looking to collaborate with creative GameDev team 
+- 👀 I’m interested in Data Science
 - 📫 necenceu@gmail.com
 
 <!---
