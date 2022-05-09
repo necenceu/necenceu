@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @necenceu
-- 👀 I’m interested in Data Science
+- 👀 I am Data Scientist from Kazakhstan
 - 📫 necenceu@gmail.com
 
 <!---
