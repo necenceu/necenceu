@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @necenceu
-- 👀 I am Data Scientist from Kazakhstan
+- 👀 I am Software Engineer from Kazakhstan
 - 📫 necenceu@gmail.com
 
 <!---
